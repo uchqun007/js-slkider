@@ -14,15 +14,22 @@
   right: 0;
 }
 span{
-    color: #fcfcfc;
+    color: #0c0b0b;
+    font-weight: 900;
+    font-size: 25px;
+}
+i{
+    color:#0c0b0b;
+    font-weight: 900;
+    font-size: 25px;
 }
 button{
     width: 70px;
     height: 30px;
-    background: rgb(0, 119, 255);
+    background: rgba(79, 131, 214, 0.698);
     border: none;
     outline: none;
-    color: #fcfcfc;
+    color: #ffffff;
     font-size: 20px;
     border-radius: 5px;
 }
@@ -32,7 +39,7 @@ button{
     left: 15%;
     width: 600px;
     height: 400px;
-    overflow: hidden;
+    overflow: scroll;
 }
 .box img{
     width: 100%;
